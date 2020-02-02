@@ -1,6 +1,6 @@
 # 2019-ncov
 
-This repo contains data of daily confirmed cases of 2019 novel coronavirus broken in wuhan China. 
+This repo contains data of daily confirmed cases of 2019 novel coronavirus outbroken in WuHan China. 
 
 # Data Format
 
@@ -61,7 +61,7 @@ There's a simple demo to demonstrate the usage of json data. Take a look at http
 
 # Reference
 
-The data are collected from offical report from government daily.
+The data are collected from offical report daily.
 
 - National Healthy Commission of China
 - Healthy Commmissions in 31 provinces of China
